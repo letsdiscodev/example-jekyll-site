@@ -6,6 +6,7 @@
 pwd
 ls -ltra
 
+
 chown jekyll:jekyll -R /repo
 
 jekyll build -d $DISCO_DIST_PATH --trace
