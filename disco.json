@@ -3,7 +3,7 @@
     "services": {
         "web": {
             "type": "static",
-            "image": "bretfisher/jekyll",
+            "image": "ruby:3.3.0",
             "command": "./build.sh"
         }
     }
