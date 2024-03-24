@@ -18,4 +18,4 @@ bundle exec jekyll serve --livereload
 
 git add, commit, push!
 
-documentation TODO TODO TODO
+[see the documentation](https://docs.letsdisco.dev/tldr-guides/deploying-a-jekyll-site)
