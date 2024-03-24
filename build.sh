@@ -1,2 +1,2 @@
-bundle install
-jekyll build -d $DISCO_DIST_PATH
+# bundle install
+# jekyll build -d $DISCO_DIST_PATH
