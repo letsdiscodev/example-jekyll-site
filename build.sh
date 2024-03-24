@@ -1,3 +1,6 @@
+pwd
+ls -ltra
+
 # `chown` below necessary because of issue reported here
 # https://github.com/envygeeks/jekyll-docker/issues/268
 # alternatively, see
