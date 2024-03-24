@@ -4,4 +4,5 @@
 # https://michaelcurrin.github.io/code-cookbook/recipes/ci-cd/github-actions/workflows/jekyll/build/container.html
 
 chown jekyll:jekyll -R /repo
+
 jekyll build -d $DISCO_DIST_PATH --trace
