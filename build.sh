@@ -1,2 +1,2 @@
-# chown jekyll:jekyll -R /usr/gem
-# jekyll build -d $DISCO_DIST_PATH
+chmod 777 /srv/jekyll
+jekyll build -d $DISCO_DIST_PATH
