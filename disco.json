@@ -3,7 +3,7 @@
     "services": {
         "web": {
             "type": "static",
-            "image": "ruby:3.3.0",
+            "image": "ruby",
             "command": "./build.sh"
         }
     }
