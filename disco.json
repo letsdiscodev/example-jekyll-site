@@ -3,7 +3,7 @@
     "services": {
         "web": {
             "type": "static",
-            "image": "jekyll/builder:latest",
+            "image": "jekyll/jekyll:latest",
             "command": "./build.sh"
         }
     }
