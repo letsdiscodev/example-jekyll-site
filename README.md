@@ -1,6 +1,6 @@
 # Example disco Jekyll Site
 
-[See the documentation](https://docs.letsdisco.dev/tldr-guides/deploying-a-jekyll-site)
+[See the documentation](https://docs.letsdisco.dev/deployment-guides/jekyll)
 
 ---
 
