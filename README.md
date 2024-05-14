@@ -1,4 +1,8 @@
-# Example Jekyll Disco Site
+# Example disco Jekyll Site
+
+[See the documentation](https://docs.letsdisco.dev/tldr-guides/deploying-a-jekyll-site)
+
+---
 
 ## run locally
 
@@ -13,9 +17,3 @@ gem install jekyll bundler
 ```bash
 bundle exec jekyll serve --livereload
 ```
-
-## deploy with disco
-
-git add, commit, push!
-
-[see the documentation](https://docs.letsdisco.dev/tldr-guides/deploying-a-jekyll-site)
